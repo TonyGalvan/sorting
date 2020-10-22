@@ -1,6 +1,6 @@
 package uaslp.enginering.labs;
 
-public class StringAscendantComparator implements Comparator {
+public class AlumnoAscendantCompare implements Comparator {
 
     @Override
     public int compare(Object left, Object right){
